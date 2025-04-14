@@ -7,7 +7,7 @@ Networking student
 I am currently a third year student.
 
 *   🌍  I'm based in Sofia, Bulgaria.
-*   ✉️  You can contact me at [kaloianpiperkoov02@gmail.com](mailto:kaloianpiperkoov02@gmail.com)
+*   ✉️  You can contact me at [kaloianpiperkoov02@gmail.com](mailto:kaloianpiperkov02@gmail.com)
 *   🧠  I'm learning Java and other programming languages and frameworks.
    ### Skills 
 <p align="left">
